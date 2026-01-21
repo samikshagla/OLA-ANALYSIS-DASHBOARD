@@ -1,41 +1,48 @@
-🚖 Ola Ride Analytics Dashboard (Power BI)
+ Ola Ride Analytics Dashboard
+ 
 📌 Project Overview
 
-<img width="722" height="426" alt="image" src="https://github.com/user-attachments/assets/f97046c9-17a7-4077-bc38-f5d6a79a1682" />
+<img width="722" height="426" alt="image" src="https://github.com/user-attachments/assets/6fc7f8af-f539-425b-9ce3-cd44a49c4be4" />
 
-This project is an end-to-end Power BI dashboard built to analyze Ola ride data and extract meaningful business insights.
-It simulates a real-world ride-hailing analytics system used to understand demand trends, revenue performance, cancellations, and service quality.
 
-The project focuses on transforming raw data into actionable insights using Power BI, DAX, and data analysis techniques.
+This project is an end-to-end Power BI analytics dashboard developed to analyze Ola ride data and generate meaningful business insights.
+It simulates a real-world ride-hailing analytics system to understand demand patterns, revenue performance, cancellations, and customer experience.
+
+The project demonstrates strong skills in data analysis, visualization, and business storytelling.
+
 
 🎯 Project Objectives
 
+
 Analyze overall ride performance
 
-Understand vehicle-wise demand and revenue
+Identify high and low revenue-generating vehicle types
 
-Identify cancellation patterns
+Understand cancellation behavior
 
 Evaluate driver and customer ratings
 
-Build an interactive and business-friendly dashboard
+Build an interactive and business-focused dashboard
 
-🧰 Tools & Technologies Used
 
-Power BI – Data visualization & dashboarding
+🧰 Tools & Technologies
+
+
+Power BI – Dashboard creation & visualization
 
 DAX – Measures and calculations
 
-Python (Pandas) – Data cleaning
+Python (Pandas) – Data cleaning & preprocessing
 
 Power Query – Data transformation
 
 CSV Dataset – Ola ride data
 
-📊 Dashboard Pages Overview
+📊 Dashboard Pages
+
 🔹 1. Overall Dashboard
 
-Provides a high-level summary of:
+Provides a high-level overview of:
 
 Total rides
 
@@ -47,7 +54,8 @@ Cancellation rate
 
 Ride demand by hour
 
-Vehicle-wise distribution
+Vehicle-wise ride distribution
+
 
 🔹 2. Vehicle Type Analysis
 
@@ -61,21 +69,23 @@ Average distance per vehicle
 
 Vehicle-wise performance comparison
 
+
 🔹 3. Revenue Analysis
 
 Analyzes:
 
 Revenue by vehicle type
 
-Revenue trend over time
+Revenue trends over time
 
 Revenue contribution by location
 
 Revenue per ride
 
+
 🔹 4. Cancellation Analysis
 
-Provides insights into:
+Highlights:
 
 Total cancellations
 
@@ -84,6 +94,7 @@ Driver vs customer cancellations
 Cancellation by vehicle type
 
 Time-based cancellation patterns
+
 
 🔹 5. Ratings Analysis
 
@@ -95,22 +106,24 @@ Average customer rating
 
 Vehicle-wise rating comparison
 
-Best and worst performing vehicle types
+Best and worst performing vehicle categories
+
 
 📈 Key Insights
 
-🚗 Prime Sedan & SUV generate higher revenue per ride
+🚗 Prime Sedan and SUV generate higher revenue per ride
 
-⏰ Peak demand occurs during evening hours
+⏰ Peak ride demand occurs during evening hours
 
 ❌ Cancellations are higher during peak traffic times
 
 ⭐ Driver ratings are generally higher than customer ratings
 
-🚕 Auto and Bike have high volume but lower revenue contribution
+🚕 Auto and Bike have high ride volume but lower revenue contribution
 
 📁 Project Structure
-Ola-Ride-Analysis/
+
+Ola-Ride-Analytics/
 │
 ├── Dataset/
 │   └── cleaned_ola_data.csv
@@ -127,9 +140,9 @@ Ola-Ride-Analysis/
 
 Data Cleaning & Preprocessing
 
-DAX Measures & Calculations
+DAX Measures and Calculations
 
-Dashboard Design
+Dashboard Design & Storytelling
 
 Business Analysis
 
@@ -141,21 +154,21 @@ Analytical Thinking
 
 ✔ Real-world business problem
 ✔ End-to-end analytics workflow
-✔ Clean dashboard design
+✔ Professional dashboard design
 ✔ Multiple KPIs and insights
 ✔ Strong storytelling with data
 
-📌 How to Use
+▶️ How to Use
 
 Download the .pbix file
 
-Open in Power BI Desktop
+Open it using Power BI Desktop
 
-Use slicers to explore data
+Use slicers to interact with data
 
-Analyze trends across dashboards
+Explore insights across dashboard pages
 
-🙌 Author
+👩‍💻 Author
 
 Samiksha Chauhan
 B.Tech CSE (AI/ML)
@@ -163,4 +176,4 @@ Aspiring Data Analyst
 
 ⭐ Feedback
 
-If you find this project useful, feel free to ⭐ the repository or fork it.
+If you found this project useful, feel free to ⭐ the repository or fork it.

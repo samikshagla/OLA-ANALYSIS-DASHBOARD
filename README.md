@@ -1,1 +1,164 @@
-# OLA-ANALYSIS-DASHBOARD
+🚖 Ola Ride Analytics Dashboard (Power BI)
+📌 Project Overview
+<img width="722" height="426" alt="image" src="https://github.com/user-attachments/assets/f97046c9-17a7-4077-bc38-f5d6a79a1682" />
+This project is an end-to-end Power BI dashboard built to analyze Ola ride data and extract meaningful business insights.
+It simulates a real-world ride-hailing analytics system used to understand demand trends, revenue performance, cancellations, and service quality.
+
+The project focuses on transforming raw data into actionable insights using Power BI, DAX, and data analysis techniques.
+
+🎯 Project Objectives
+
+Analyze overall ride performance
+
+Understand vehicle-wise demand and revenue
+
+Identify cancellation patterns
+
+Evaluate driver and customer ratings
+
+Build an interactive and business-friendly dashboard
+
+🧰 Tools & Technologies Used
+
+Power BI – Data visualization & dashboarding
+
+DAX – Measures and calculations
+
+Python (Pandas) – Data cleaning
+
+Power Query – Data transformation
+
+CSV Dataset – Ola ride data
+
+📊 Dashboard Pages Overview
+🔹 1. Overall Dashboard
+
+Provides a high-level summary of:
+
+Total rides
+
+Total revenue
+
+Average fare
+
+Cancellation rate
+
+Ride demand by hour
+
+Vehicle-wise distribution
+
+🔹 2. Vehicle Type Analysis
+
+Focuses on:
+
+Total rides per vehicle type
+
+Average fare per vehicle
+
+Average distance per vehicle
+
+Vehicle-wise performance comparison
+
+🔹 3. Revenue Analysis
+
+Analyzes:
+
+Revenue by vehicle type
+
+Revenue trend over time
+
+Revenue contribution by location
+
+Revenue per ride
+
+🔹 4. Cancellation Analysis
+
+Provides insights into:
+
+Total cancellations
+
+Driver vs customer cancellations
+
+Cancellation by vehicle type
+
+Time-based cancellation patterns
+
+🔹 5. Ratings Analysis
+
+Evaluates service quality using:
+
+Average driver rating
+
+Average customer rating
+
+Vehicle-wise rating comparison
+
+Best and worst performing vehicle types
+
+📈 Key Insights
+
+🚗 Prime Sedan & SUV generate higher revenue per ride
+
+⏰ Peak demand occurs during evening hours
+
+❌ Cancellations are higher during peak traffic times
+
+⭐ Driver ratings are generally higher than customer ratings
+
+🚕 Auto and Bike have high volume but lower revenue contribution
+
+📁 Project Structure
+Ola-Ride-Analysis/
+│
+├── Dataset/
+│   └── cleaned_ola_data.csv
+│
+├── PowerBI/
+│   └── Ola_Dashboard.pbix
+│
+├── Python/
+│   └── data_cleaning.ipynb
+│
+└── README.md
+
+🧠 Skills Demonstrated
+
+Data Cleaning & Preprocessing
+
+DAX Measures & Calculations
+
+Dashboard Design
+
+Business Analysis
+
+Data Visualization
+
+Analytical Thinking
+
+🏆 Why This Project Is Resume-Ready
+
+✔ Real-world business problem
+✔ End-to-end analytics workflow
+✔ Clean dashboard design
+✔ Multiple KPIs and insights
+✔ Strong storytelling with data
+
+📌 How to Use
+
+Download the .pbix file
+
+Open in Power BI Desktop
+
+Use slicers to explore data
+
+Analyze trends across dashboards
+
+🙌 Author
+
+Samiksha Chauhan
+B.Tech CSE (AI/ML)
+Aspiring Data Analyst
+
+⭐ Feedback
+
+If you find this project useful, feel free to ⭐ the repository or fork it.

@@ -1,6 +1,7 @@
 🚖 Ola Ride Analytics Dashboard (Power BI)
 📌 Project Overview
 <img width="722" height="426" alt="image" src="https://github.com/user-attachments/assets/f97046c9-17a7-4077-bc38-f5d6a79a1682" />
+
 This project is an end-to-end Power BI dashboard built to analyze Ola ride data and extract meaningful business insights.
 It simulates a real-world ride-hailing analytics system used to understand demand trends, revenue performance, cancellations, and service quality.
 
